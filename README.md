@@ -1,14 +1,6 @@
 # SQL 之母 - 闯关式 SQL 自学网
 
 > 纯前端实现的闯关式 SQL 自学网
->
-> By [程序员鱼皮](https://docs.qq.com/doc/DUFFRVWladXVjeUxW) ，一人全役
-
-
-
-在线体验：http://sqlmother.yupi.icu
-
-视频演示：https://www.bilibili.com/video/BV1pV4y1i7LW
 
 
 
